@@ -75,7 +75,7 @@ The trained coefficients are exported to the app (`src/lib/model.ts`), where sco
 
 ## Files
 
-- `model/reward_prediction_model.ipynb`: generates the simulated data, trains the models and exports the coefficients
+- `reward_prediction_model.ipynb`: generates the simulated data, trains the models and exports the coefficients
 - `src/lib/model.ts`: the trained model and scoring engine
 - `src/lib/`: business logic and tests for rewards, redemption, savings, notifications and preferences
 - `src/routes/`: app screens
